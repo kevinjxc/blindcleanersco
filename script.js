@@ -34,21 +34,21 @@ if (isSafari()) {
 
 //Redirects to About Page
 function pageAbout() {
-    window.location.href = "about.html";
+    window.location.href = "./about";
 }
 
 //Redirects to Services Page
 function pageServices() {
-    window.location.href = "services.html";
+    window.location.href = "./services";
 }
 
 //Redirects to Jobs Page
 function pageJobs() {
-    window.location.href = "jobs.html";
+    window.location.href = "./jobs";
 }
 //Redirects to Contact Page
 function pageContact() {
-    window.location.href = "contact.html";
+    window.location.href = "./contact";
 }
 
 //Redirects to Email
