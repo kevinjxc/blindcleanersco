@@ -51,8 +51,8 @@ function pageContact() {
     window.location.href = "./contact";
 }
 
-//Redirects to Home Page
-function pageContact() {
+//Redirects to Index Page
+function pageIndex() {
     window.location.href = "https://www.blindcleanersco.com/";
 }
 
