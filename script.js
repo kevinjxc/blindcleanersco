@@ -42,16 +42,6 @@ function pageServices() {
     window.location.href = "services.html";
 }
 
-//Redirects to Methods Page
-function pageMethods() {
-    window.location.href = "methods.html";
-}
-
-//Redirects to Coupons Page
-function pageCoupons() {
-    window.location.href = "contact.html";
-}
-
 //Redirects to Jobs Page
 function pageJobs() {
     window.location.href = "jobs.html";
