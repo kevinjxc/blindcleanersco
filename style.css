@@ -197,6 +197,7 @@ body::-webkit-scrollbar {
 .menu a:hover {
     color: #AEE155;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .menu a:active {
@@ -217,6 +218,7 @@ body::-webkit-scrollbar {
 .processBox .text:hover {
     color: #AEE155;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .processBox .text:active {
@@ -329,6 +331,7 @@ body::-webkit-scrollbar {
 .surroundsAbout .processButton a:hover {
     color: #AEE155;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .surroundsServices .processButton a:link {
@@ -344,6 +347,7 @@ body::-webkit-scrollbar {
 .surroundsServices .processButton a:hover {
     color: #AEE155;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .hamburger {
