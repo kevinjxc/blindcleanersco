@@ -31,7 +31,6 @@ if (isSafari()) {
   indent3.innerHTML = "<br>";
 }
 
-
 //Redirects to About Page
 function pageAbout() {
     window.location.href = "./about";
@@ -46,9 +45,15 @@ function pageServices() {
 function pageJobs() {
     window.location.href = "./jobs";
 }
+
 //Redirects to Contact Page
 function pageContact() {
     window.location.href = "./contact";
+}
+
+//Redirects to Home Page
+function pageContact() {
+    window.location.href = "https://www.blindcleanersco.com/";
 }
 
 //Redirects to Email
